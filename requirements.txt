@@ -1,0 +1,2 @@
+# Local tests and DirectRunner fallback. Dataflow and Composer install their own copies.
+apache-beam[gcp]>=2.60

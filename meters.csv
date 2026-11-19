@@ -1,0 +1,21 @@
+meter_id,customer_type,city,state,tariff_plan,feeder_id,sanctioned_load_kw,install_date
+MTR-001,Residential,Hyderabad,Telangana,Domestic,FDR-04,7,2024-08-11
+MTR-002,Residential,Bengaluru,Karnataka,Domestic,FDR-04,7,2023-01-24
+MTR-003,Residential,Chennai,Tamil Nadu,Domestic,FDR-02,7,2024-09-01
+MTR-004,Residential,Pune,Maharashtra,Domestic,FDR-06,7,2023-01-17
+MTR-005,Residential,Visakhapatnam,Andhra Pradesh,Domestic,FDR-01,6,2023-09-14
+MTR-006,Residential,Hyderabad,Telangana,Domestic,FDR-02,3,2025-01-08
+MTR-007,Residential,Bengaluru,Karnataka,Domestic,FDR-06,8,2022-03-27
+MTR-008,Residential,Chennai,Tamil Nadu,Domestic,FDR-05,6,2024-07-16
+MTR-009,Residential,Pune,Maharashtra,Domestic,FDR-06,8,2022-11-19
+MTR-010,Residential,Visakhapatnam,Andhra Pradesh,Domestic,FDR-05,3,2024-12-18
+MTR-011,Residential,Hyderabad,Telangana,Domestic,FDR-01,3,2022-03-15
+MTR-012,Residential,Bengaluru,Karnataka,Domestic,FDR-02,4,2022-03-03
+MTR-013,Commercial,Chennai,Tamil Nadu,Commercial,FDR-04,40,2024-06-21
+MTR-014,Commercial,Pune,Maharashtra,Commercial,FDR-05,32,2024-11-29
+MTR-015,Commercial,Visakhapatnam,Andhra Pradesh,Commercial,FDR-02,60,2023-08-26
+MTR-016,Commercial,Hyderabad,Telangana,Commercial,FDR-04,20,2022-06-24
+MTR-017,Commercial,Bengaluru,Karnataka,Commercial,FDR-04,37,2024-04-13
+MTR-018,Industrial,Chennai,Tamil Nadu,HT-Industrial,FDR-05,242,2023-06-05
+MTR-019,Industrial,Pune,Maharashtra,HT-Industrial,FDR-03,317,2024-11-16
+MTR-020,Industrial,Visakhapatnam,Andhra Pradesh,HT-Industrial,FDR-03,215,2022-05-24
